@@ -1,4 +1,4 @@
-package com.RafiZimraanLisfa.PBO.pertemuan5;
+package com.RahmatAshari.PBO.pertemuan5;
 
 public class Barang {
     // Atribute
