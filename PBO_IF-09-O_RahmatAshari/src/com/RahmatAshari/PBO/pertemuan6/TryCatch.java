@@ -1,4 +1,4 @@
-package com.RafiZimraanLisfa.PBO.pertemuan6;
+package com.RahmatAshari.PBO.pertemuan6;
 
 public class TryCatch {
     // Membuat method main
